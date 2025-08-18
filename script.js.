@@ -1,9 +1,1 @@
-  // Function for the "Search" button
-function search() {
-  alert("Search function coming soon!");
-}
-
-// Function for the "Run Commands" button
-function runCommands() {
-  alert("Run commands function coming soon!");
-}
+  
